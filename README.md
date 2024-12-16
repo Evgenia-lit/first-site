@@ -1,7 +1,7 @@
 ## Привет!
 <img src="https://sun9-35.userapi.com/impg/EUaC8UcilJlpsOsOOI7Q4m4Vy_qsDU5zlkNwaw/2fR7edMCUZE.jpg?size=1200x1600&quality=95&sign=fe417901b2af86560eb92f8bddc8242d&type=album" alt="Образец изображения" alt="Образец изображения" width="160" height ="200"> 
 
-## Меня зовут Литивишко Евгения
+## Меня зовут Литвишко Евгения
 
 **Хочу немного рассказать как я попала в IT. Вернее правильно будет сказать, что еще не попала, но дело времени!**
 
